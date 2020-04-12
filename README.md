@@ -78,4 +78,4 @@ All components herein are provided AS IS and without a warranty of any kind by F
 [ForgeRock Identity Platform]:https://www.forgerock.com/platform/
 [OpenAM 11 Docs]:https://backstage.forgerock.com/docs/openam/11.0.0
 [OpenAM 11.0.3 Docs]:https://backstage.forgerock.com/docs/openam/11.0.3
-[opendmk]:git@github.com:xtreemfs/opendmk.git
+[xtreemfs opendmk]:git@github.com:xtreemfs/opendmk.git
