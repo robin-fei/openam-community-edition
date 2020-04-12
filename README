@@ -129,6 +129,7 @@ Maven builds the files in the following order:
 The standard version of Maven automatically resolves the third-party libraries.Third-party
 libraries are hosted on the ForgeRock depot repository at
 http://maven.forgerock.org/repo/maven-central.
+git@github.com:xtreemfs/opendmk.git
 
 %% 3. Building the workspace
 
