@@ -9,20 +9,43 @@ target/
 *.zip
 *.7z
 bin/
-src/main/resources/application.properties
-src/main/resources/application-local.properties
 
 #Intelij IDEA
 *.MF
 *.class
 
 bin
-
-/my-distribute
-
-/config
 /logs
 
 /.idea
 /deploy/logs
 /web/logs/*.log
+
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
