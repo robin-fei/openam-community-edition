@@ -69,6 +69,7 @@ All components herein are provided AS IS and without a warranty of any kind by F
 - [OpenAM 11.0.3 Docs]
 - [OpenAM 11 Docs]
 - [ForgeRock Identity Platform]
+- [xtreemfs opendmk]
 
 [GitHub Project]:https://github.com/ForgeRock/openam-community-edition-11.0.3
 [GitHub Issues]:https://github.com/ForgeRock/openam-community-edition-11.0.3/issues
@@ -77,7 +78,4 @@ All components herein are provided AS IS and without a warranty of any kind by F
 [ForgeRock Identity Platform]:https://www.forgerock.com/platform/
 [OpenAM 11 Docs]:https://backstage.forgerock.com/docs/openam/11.0.0
 [OpenAM 11.0.3 Docs]:https://backstage.forgerock.com/docs/openam/11.0.3
-
-dependency:
-
 [opendmk]:git@github.com:xtreemfs/opendmk.git
