@@ -33,10 +33,16 @@
         <version>11.0.3-SNAPSHOT</version>
     </parent>-->
 
+    <!--<parent>-->
+     <!--<groupId>org.forgerock.ce</groupId>-->
+     <!--<artifactId>forgerock-parent</artifactId>-->
+     <!--<version>1.1.0</version>-->
+    <!--</parent>-->
+
     <parent>
-     <groupId>org.forgerock.ce</groupId>
-     <artifactId>forgerock-parent</artifactId>
-     <version>1.1.0</version>
+        <groupId>org.forgerock.ce.openam</groupId>
+        <artifactId>openam-documentation</artifactId>
+        <version>11.0.3</version>
     </parent>
 
     <repositories>

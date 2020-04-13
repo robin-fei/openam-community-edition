@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <parent>
     <artifactId>openam</artifactId>
-    <groupId>org.forgerock.openam</groupId>
+    <groupId>org.forgerock.ce.openam</groupId>
     <version>11.0.3</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
@@ -467,31 +467,31 @@
   </build>
   <dependencies>
     <dependency>
-      <groupId>org.forgerock.openam</groupId>
+      <groupId>org.forgerock.ce.openam</groupId>
       <artifactId>openam-jaxrpc-schema</artifactId>
       <version>11.0.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
-      <groupId>org.forgerock.openam</groupId>
+      <groupId>org.forgerock.ce.openam</groupId>
       <artifactId>openam-dtd-schema</artifactId>
       <version>11.0.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
-      <groupId>org.forgerock.openam</groupId>
+      <groupId>org.forgerock.ce.openam</groupId>
       <artifactId>openam-xacml3-schema</artifactId>
       <version>11.0.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
-      <groupId>org.forgerock.openam</groupId>
+      <groupId>org.forgerock.ce.openam</groupId>
       <artifactId>OpenFM</artifactId>
       <version>11.0.3</version>
       <scope>provided</scope>
     </dependency>
     <dependency>
-      <groupId>org.forgerock.openam</groupId>
+      <groupId>org.forgerock.ce.openam</groupId>
       <artifactId>openam-entitlements</artifactId>
       <version>11.0.3</version>
       <scope>provided</scope>
@@ -501,7 +501,7 @@
       <artifactId>tools</artifactId>
       <version>1.5</version>
       <scope>system</scope>
-      <systemPath>/usr/lib/jvm/jdk1.7.0_80/lib/tools.jar</systemPath>
+      <systemPath>/Library/Java/JavaVirtualMachines/jdk1.7.0_80.jdk/Contents/Home/lib/tools.jar</systemPath>
       <optional>true</optional>
     </dependency>
   </dependencies>
