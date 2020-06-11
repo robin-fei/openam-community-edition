@@ -133,7 +133,7 @@
         <powermock.version>1.5</powermock.version>
         <jackson.version>2.1.2</jackson.version>
         <click.version>2.3.0</click.version>
-        <commons-beanutils.version>1.8.3</commons-beanutils.version>
+        <commons-beanutils.version>1.9.2</commons-beanutils.version>
         <commons-codec.version>1.6</commons-codec.version>
         <commons-collections.version>3.2.1</commons-collections.version>
         <commons-digester.version>2.1</commons-digester.version>
