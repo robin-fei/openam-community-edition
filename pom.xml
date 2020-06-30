@@ -131,7 +131,7 @@
         <restlet.version>2.1.7</restlet.version>
         <xercesj.version>2.11.0</xercesj.version>
         <powermock.version>1.5</powermock.version>
-        <jackson.version>2.1.2</jackson.version>
+        <jackson.version>2.11.1</jackson.version>
         <click.version>2.3.0</click.version>
         <commons-beanutils.version>1.8.3</commons-beanutils.version>
         <commons-codec.version>1.6</commons-codec.version>
